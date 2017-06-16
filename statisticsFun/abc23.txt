@@ -1,0 +1,17 @@
+24
+yanhao/1825/mda-gg3xenpeykvpbxv5.mp4
+http://mark-audio.bj.bcebos.com/bb3aba1dc0daa0a6d4853b5a967c4533_20170503035234
+1
+1
+100
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/bb3aba1dc0daa0a6d4853b5a967c4533_20170503035234","record":[{"begin_time":10,"end_time":12,"text":"1首届亚非青年联欢节开幕","img_url":""},{"begin_time":13,"end_time":43,"text":"1李源潮出席开幕式并致辞","img_url":""}]}
+否
+-
+是
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/bb3aba1dc0daa0a6d4853b5a967c4533_20170503035234","record":[{"begin_time":10,"end_time":12,"text":"1首届亚非青年联欢节开幕","img_url":""},{"begin_time":13,"end_time":43,"text":"1李源潮出席开幕式并致辞","img_url":""}]}
+3384353:{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/bb3aba1dc0daa0a6d4853b5a967c4533_20170503035234","record":[{"begin_time":10,"end_time":12,"text":"1首届亚非青年联欢节开幕","img_url":""},{"begin_time":13,"end_time":43,"text":"1李源潮出席开幕式并致辞","img_url":""}]}
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/bb3aba1dc0daa0a6d4853b5a967c4533_20170503035234","record":[{"begin_time":10,"end_time":12,"text":"1首届亚非青年联欢节开幕","img_url":""},{"begin_time":13,"end_time":43,"text":"1李源潮出席开幕式并致辞","img_url":""}]}(100)
+100
+否
+-
+-

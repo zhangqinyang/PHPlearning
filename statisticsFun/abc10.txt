@@ -1,0 +1,17 @@
+11
+yanhao/1825/mda-gg2d89ksqgf3qsuy.mp4
+http://mark-audio.bj.bcebos.com/1672b4dd0fc0a3b93912b71fa3f7b2e8_20170503035156
+1
+1
+100
+{"audio_duration":81,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1672b4dd0fc0a3b93912b71fa3f7b2e8_20170503035156","record":[{"begin_time":18,"end_time":45,"text":"1里约奥运地铁四号线全线贯通","img_url":""},{"begin_time":47,"end_time":49,"text":"2中国制造的地铁","img_url":""},{"begin_time":50,"end_time":51,"text":"2在一号线和二号线已经取得了成功","img_url":""},{"begin_time":52,"end_time":53,"text":"2民众也很习惯乘坐它们","img_url":""},{"begin_time":54,"end_time":56,"text":"2在四号线我们使用的是","img_url":""},{"begin_time":57,"end_time":59,"text":"2同一型号的地铁","img_url":""},{"begin_time":60,"end_time":62,"text":"2共计15辆大家一定会很喜欢","img_url":""}]}
+否
+-
+是
+{"audio_duration":81,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1672b4dd0fc0a3b93912b71fa3f7b2e8_20170503035156","record":[{"begin_time":18,"end_time":45,"text":"1里约奥运地铁四号线全线贯通","img_url":""},{"begin_time":47,"end_time":49,"text":"2中国制造的地铁","img_url":""},{"begin_time":50,"end_time":51,"text":"2在一号线和二号线已经取得了成功","img_url":""},{"begin_time":52,"end_time":53,"text":"2民众也很习惯乘坐它们","img_url":""},{"begin_time":54,"end_time":56,"text":"2在四号线我们使用的是","img_url":""},{"begin_time":57,"end_time":59,"text":"2同一型号的地铁","img_url":""},{"begin_time":60,"end_time":62,"text":"2共计15辆大家一定会很喜欢","img_url":""}]}
+11332588:{"audio_duration":81,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1672b4dd0fc0a3b93912b71fa3f7b2e8_20170503035156","record":[{"begin_time":18,"end_time":45,"text":"1里约奥运地铁四号线全线贯通","img_url":""},{"begin_time":47,"end_time":49,"text":"2中国制造的地铁","img_url":""},{"begin_time":50,"end_time":51,"text":"2在一号线和二号线已经取得了成功","img_url":""},{"begin_time":52,"end_time":53,"text":"2民众也很习惯乘坐它们","img_url":""},{"begin_time":54,"end_time":56,"text":"2在四号线我们使用的是","img_url":""},{"begin_time":57,"end_time":59,"text":"2同一型号的地铁","img_url":""},{"begin_time":60,"end_time":62,"text":"2共计15辆大家一定会很喜欢","img_url":""}]}
+{"audio_duration":81,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1672b4dd0fc0a3b93912b71fa3f7b2e8_20170503035156","record":[{"begin_time":18,"end_time":45,"text":"1里约奥运地铁四号线全线贯通","img_url":""},{"begin_time":47,"end_time":49,"text":"2中国制造的地铁","img_url":""},{"begin_time":50,"end_time":51,"text":"2在一号线和二号线已经取得了成功","img_url":""},{"begin_time":52,"end_time":53,"text":"2民众也很习惯乘坐它们","img_url":""},{"begin_time":54,"end_time":56,"text":"2在四号线我们使用的是","img_url":""},{"begin_time":57,"end_time":59,"text":"2同一型号的地铁","img_url":""},{"begin_time":60,"end_time":62,"text":"2共计15辆大家一定会很喜欢","img_url":""}]}(100)
+100
+否
+-
+-

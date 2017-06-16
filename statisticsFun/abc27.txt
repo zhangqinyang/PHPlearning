@@ -1,0 +1,17 @@
+28
+yanhao/1825/mda-gg5h3y5dmagg6mtj.mp4
+http://mark-audio.bj.bcebos.com/96f7a0d57c644b8fe83c0498e6235f22_20170503035248
+1
+1
+100
+{"audio_duration":18,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/96f7a0d57c644b8fe83c0498e6235f22_20170503035248","record":[{"begin_time":1,"end_time":14,"text":"1大陆旅行团严重车祸###1司机确认为严重的酒后驾车","img_url":""},{"begin_time":16,"end_time":18,"text":"1喝高了围观交警查酒驾###1自己“作”进了班房","img_url":""}]}
+否
+-
+是
+{"audio_duration":18,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/96f7a0d57c644b8fe83c0498e6235f22_20170503035248","record":[{"begin_time":1,"end_time":14,"text":"1大陆旅行团严重车祸###1司机确认为严重的酒后驾车","img_url":""},{"begin_time":16,"end_time":18,"text":"1喝高了围观交警查酒驾###1自己“作”进了班房","img_url":""}]}
+3384353:{"audio_duration":18,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/96f7a0d57c644b8fe83c0498e6235f22_20170503035248","record":[{"begin_time":1,"end_time":14,"text":"1大陆旅行团严重车祸###1司机确认为严重的酒后驾车","img_url":""},{"begin_time":16,"end_time":18,"text":"1喝高了围观交警查酒驾###1自己“作”进了班房","img_url":""}]}
+{"audio_duration":18,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/96f7a0d57c644b8fe83c0498e6235f22_20170503035248","record":[{"begin_time":1,"end_time":14,"text":"1大陆旅行团严重车祸###1司机确认为严重的酒后驾车","img_url":""},{"begin_time":16,"end_time":18,"text":"1喝高了围观交警查酒驾###1自己“作”进了班房","img_url":""}]}(100)
+100
+否
+-
+-

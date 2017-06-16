@@ -1,0 +1,17 @@
+9
+yanhao/1825/mda-gg1hrnkhqckw2jbz.mp4
+http://mark-audio.bj.bcebos.com/b36a59a72445a7cc83b20791eec9232d_20170503035148
+1
+1
+100
+{"audio_duration":74,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b36a59a72445a7cc83b20791eec9232d_20170503035148","record":[{"begin_time":23,"end_time":26,"text":"1携手并肩暖乡情","img_url":""},{"begin_time":27,"end_time":36,"text":"1师生齐行动帮助受灾同学度过难关","img_url":""},{"begin_time":58,"end_time":59,"text":"2要听爸爸妈妈的话","img_url":""},{"begin_time":60,"end_time":61,"text":"2老师和同学都这么关心你","img_url":""},{"begin_time":62,"end_time":63,"text":"2你一定要认真学习","img_url":""},{"begin_time":64,"end_time":65,"text":"2好的","img_url":""}]}
+否
+-
+是
+{"audio_duration":74,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b36a59a72445a7cc83b20791eec9232d_20170503035148","record":[{"begin_time":23,"end_time":26,"text":"1携手并肩暖乡情","img_url":""},{"begin_time":27,"end_time":36,"text":"1师生齐行动帮助受灾同学度过难关","img_url":""},{"begin_time":58,"end_time":59,"text":"2要听爸爸妈妈的话","img_url":""},{"begin_time":60,"end_time":61,"text":"2老师和同学都这么关心你","img_url":""},{"begin_time":62,"end_time":63,"text":"2你一定要认真学习","img_url":""},{"begin_time":64,"end_time":65,"text":"2好的","img_url":""}]}
+3384353:{"audio_duration":74,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b36a59a72445a7cc83b20791eec9232d_20170503035148","record":[{"begin_time":23,"end_time":26,"text":"1携手并肩暖乡情","img_url":""},{"begin_time":27,"end_time":36,"text":"1师生齐行动帮助受灾同学度过难关","img_url":""},{"begin_time":58,"end_time":59,"text":"2要听爸爸妈妈的话","img_url":""},{"begin_time":60,"end_time":61,"text":"2老师和同学都这么关心你","img_url":""},{"begin_time":62,"end_time":63,"text":"2你一定要认真学习","img_url":""},{"begin_time":64,"end_time":65,"text":"2好的","img_url":""}]}
+{"audio_duration":74,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b36a59a72445a7cc83b20791eec9232d_20170503035148","record":[{"begin_time":23,"end_time":26,"text":"1携手并肩暖乡情","img_url":""},{"begin_time":27,"end_time":36,"text":"1师生齐行动帮助受灾同学度过难关","img_url":""},{"begin_time":58,"end_time":59,"text":"2要听爸爸妈妈的话","img_url":""},{"begin_time":60,"end_time":61,"text":"2老师和同学都这么关心你","img_url":""},{"begin_time":62,"end_time":63,"text":"2你一定要认真学习","img_url":""},{"begin_time":64,"end_time":65,"text":"2好的","img_url":""}]}(100)
+100
+否
+-
+-

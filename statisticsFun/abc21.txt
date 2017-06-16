@@ -1,0 +1,17 @@
+22
+yanhao/1825/mda-gg3mxn8r9qcpyn2z.mp4
+http://mark-audio.bj.bcebos.com/333a2f13207e67c6ff5fd709309c78b0_20170503035230
+1
+1
+100
+{"audio_duration":46,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/333a2f13207e67c6ff5fd709309c78b0_20170503035230","record":[{"begin_time":9,"end_time":19,"text":"1超速行驶惹祸三人丧命车轮下","img_url":""}]}
+否
+-
+是
+{"audio_duration":46,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/333a2f13207e67c6ff5fd709309c78b0_20170503035230","record":[{"begin_time":9,"end_time":19,"text":"1超速行驶惹祸三人丧命车轮下","img_url":""}]}
+14490624:{"audio_duration":46,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/333a2f13207e67c6ff5fd709309c78b0_20170503035230","record":[{"begin_time":9,"end_time":19,"text":"1超速行驶惹祸三人丧命车轮下","img_url":""}]}
+{"audio_duration":46,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/333a2f13207e67c6ff5fd709309c78b0_20170503035230","record":[{"begin_time":9,"end_time":19,"text":"1超速行驶惹祸三人丧命车轮下","img_url":""}]}(100)
+100
+否
+-
+-

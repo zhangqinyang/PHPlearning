@@ -1,0 +1,17 @@
+15
+yanhao/1825/mda-gg2rvx2pxj2h6gzv.mp4
+http://mark-audio.bj.bcebos.com/81a3ed0a55f3c96403460ea81740bcd0_20170503035208
+1
+1
+100
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/81a3ed0a55f3c96403460ea81740bcd0_20170503035208","record":[{"begin_time":5,"end_time":104,"text":"1大巴车逃生通道多专业人员详细演示","img_url":""}]}
+否
+-
+是
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/81a3ed0a55f3c96403460ea81740bcd0_20170503035208","record":[{"begin_time":5,"end_time":104,"text":"1大巴车逃生通道多专业人员详细演示","img_url":""}]}
+14490624:{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/81a3ed0a55f3c96403460ea81740bcd0_20170503035208","record":[{"begin_time":5,"end_time":104,"text":"1大巴车逃生通道多专业人员详细演示","img_url":""}]}
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/81a3ed0a55f3c96403460ea81740bcd0_20170503035208","record":[{"begin_time":5,"end_time":104,"text":"1大巴车逃生通道多专业人员详细演示","img_url":""}]}(100)
+100
+否
+-
+-

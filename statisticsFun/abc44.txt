@@ -1,0 +1,17 @@
+45
+yanhao/1825/mda-ggkcbqipjb27p8bu.mp4
+http://mark-audio.bj.bcebos.com/587d620835297e2b33b505de17a37cbc_20170503035343
+1
+0
+0
+
+否
+-
+是
+{"audio_duration":100,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/587d620835297e2b33b505de17a37cbc_20170503035343","record":[{"begin_time":2,"end_time":3,"text":"1长沙：夜游动物园","img_url":""},{"begin_time":3,"end_time":13,"text":"111组家庭共度两天一夜亲子共度奇妙夜","img_url":""},{"begin_time":25,"end_time":26,"text":"2晚上的动物园","img_url":""},{"begin_time":26,"end_time":27,"text":"2就是有些猫科动物","img_url":""},{"begin_time":27,"end_time":29,"text":"2比如老虎狮子什么的","img_url":""},{"begin_time":29,"end_time":30,"text":"2会比白天更活跃","img_url":""},{"begin_time":31,"end_time":32,"text":"2现在终于知道","img_url":""},{"begin_time":32,"end_time":33,"text":"2孔雀是站在树上睡觉的","img_url":""},{"begin_time":36,"end_time":43,"text":"111组家庭共度两天一夜亲子共度奇妙夜","img_url":""},{"begin_time":45,"end_time":46,"text":"1长沙：夜游动物园","img_url":""},{"begin_time":46,"end_time":51,"text":"1近距离观察夜行动物和小老虎亲密接触","img_url":""},{"begin_time":56,"end_time":56,"text":"2摸起来很软","img_url":""},{"begin_time":60,"end_time":60,"text":"2舒服","img_url":""},{"begin_time":61,"end_time":62,"text":"2你害怕吗","img_url":""},{"begin_time":62,"end_time":62,"text":"2不怕","img_url":""},{"begin_time":65,"end_time":77,"text":"1近距离观察夜行动物和小老虎亲密接触","img_url":""},{"begin_time":78,"end_time":79,"text":"2看到动物和白天看到的","img_url":""},{"begin_time":80,"end_time":81,"text":"2看到动物和白天看到的","img_url":""},{"begin_time":84,"end_time":85,"text":"2袋鼠和兔子","img_url":""},{"begin_time":86,"end_time":88,"text":"2刚才只看见袋鼠","img_url":""},{"begin_time":92,"end_time":97,"text":"1近距离观察夜行动物和小老虎亲密接触","img_url":""}]}
+
+
+0
+否
+-
+-

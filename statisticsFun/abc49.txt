@@ -1,0 +1,17 @@
+50
+yanhao/1825/mda-ggmpix3mwqua3uxk.mp4
+http://mark-audio.bj.bcebos.com/3921292b74e679bbfc38f2737d61fc34_20170503035354
+1
+1
+100
+{"audio_duration":49,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/3921292b74e679bbfc38f2737d61fc34_20170503035354","record":[{"begin_time":15,"end_time":43,"text":"1西湖现“鱼跃”龙门奇景###网友感叹：条条都是“刘翔”","img_url":""}]}
+否
+-
+是
+{"audio_duration":49,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/3921292b74e679bbfc38f2737d61fc34_20170503035354","record":[{"begin_time":15,"end_time":43,"text":"1西湖现“鱼跃”龙门奇景###网友感叹：条条都是“刘翔”","img_url":""}]}
+3384353:{"audio_duration":49,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/3921292b74e679bbfc38f2737d61fc34_20170503035354","record":[{"begin_time":15,"end_time":43,"text":"1西湖现“鱼跃”龙门奇景###网友感叹：条条都是“刘翔”","img_url":""}]}
+{"audio_duration":49,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/3921292b74e679bbfc38f2737d61fc34_20170503035354","record":[{"begin_time":15,"end_time":43,"text":"1西湖现“鱼跃”龙门奇景###网友感叹：条条都是“刘翔”","img_url":""}]}(100)
+100
+否
+-
+-

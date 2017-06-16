@@ -1,0 +1,17 @@
+39
+yanhao/1825/mda-gggkc6wiw374wiru.mp4
+http://mark-audio.bj.bcebos.com/6817860bc8b9c8d1ec98da860a3ba15b_20170503035324
+1
+1
+100
+{"audio_duration":24,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6817860bc8b9c8d1ec98da860a3ba15b_20170503035324","record":[{"begin_time":0,"end_time":9,"text":"1国家博物馆副馆长陈履生新书发布会在孔学堂举行","img_url":""}]}
+否
+-
+是
+{"audio_duration":24,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6817860bc8b9c8d1ec98da860a3ba15b_20170503035324","record":[{"begin_time":0,"end_time":9,"text":"1国家博物馆副馆长陈履生新书发布会在孔学堂举行","img_url":""}]}
+3384353:{"audio_duration":24,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6817860bc8b9c8d1ec98da860a3ba15b_20170503035324","record":[{"begin_time":0,"end_time":9,"text":"1国家博物馆副馆长陈履生新书发布会在孔学堂举行","img_url":""}]}
+{"audio_duration":24,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6817860bc8b9c8d1ec98da860a3ba15b_20170503035324","record":[{"begin_time":0,"end_time":9,"text":"1国家博物馆副馆长陈履生新书发布会在孔学堂举行","img_url":""}]}(100)
+100
+否
+-
+-

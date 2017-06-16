@@ -1,0 +1,17 @@
+17
+yanhao/1825/mda-gg3dt9rkmd74jf7k.mp4
+http://mark-audio.bj.bcebos.com/e26821f2af0d5531cd85073b4bcb9558_20170503035216
+1
+1
+100
+{"audio_duration":45,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/e26821f2af0d5531cd85073b4bcb9558_20170503035216","record":[{"begin_time":4,"end_time":45,"text":"1国际货币基金组织：人民币币值符合基本面","img_url":""}]}
+否
+-
+是
+{"audio_duration":45,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/e26821f2af0d5531cd85073b4bcb9558_20170503035216","record":[{"begin_time":4,"end_time":45,"text":"1国际货币基金组织：人民币币值符合基本面","img_url":""}]}
+3384353:{"audio_duration":45,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/e26821f2af0d5531cd85073b4bcb9558_20170503035216","record":[{"begin_time":4,"end_time":45,"text":"1国际货币基金组织：人民币币值符合基本面","img_url":""}]}
+{"audio_duration":45,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/e26821f2af0d5531cd85073b4bcb9558_20170503035216","record":[{"begin_time":4,"end_time":45,"text":"1国际货币基金组织：人民币币值符合基本面","img_url":""}]}(100)
+100
+否
+-
+-

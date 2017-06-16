@@ -1,0 +1,17 @@
+8
+yanhao/1825/mda-gg1hrcgfuw97jr0n.mp4
+http://mark-audio.bj.bcebos.com/7d9818bfb26e3f2b6fcfc77167f0e1cc_20170503035146
+1
+1
+100
+{"audio_duration":54,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7d9818bfb26e3f2b6fcfc77167f0e1cc_20170503035146","record":[{"begin_time":17,"end_time":54,"text":"1美国：电动车轮让自行车秒变电动车","img_url":""}]}
+否
+-
+是
+{"audio_duration":54,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7d9818bfb26e3f2b6fcfc77167f0e1cc_20170503035146","record":[{"begin_time":17,"end_time":54,"text":"1美国：电动车轮让自行车秒变电动车","img_url":""}]}
+14490624:{"audio_duration":54,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7d9818bfb26e3f2b6fcfc77167f0e1cc_20170503035146","record":[{"begin_time":17,"end_time":54,"text":"1美国：电动车轮让自行车秒变电动车","img_url":""}]}
+{"audio_duration":54,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7d9818bfb26e3f2b6fcfc77167f0e1cc_20170503035146","record":[{"begin_time":17,"end_time":54,"text":"1美国：电动车轮让自行车秒变电动车","img_url":""}]}(100)
+100
+否
+-
+-

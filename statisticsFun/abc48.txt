@@ -1,0 +1,17 @@
+49
+yanhao/1825/mda-ggmidzg9akc13ra5.mp4
+http://mark-audio.bj.bcebos.com/f055b2637a8e1b75402a91d1afaae388_20170503035353
+1
+1
+100
+{"audio_duration":25,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f055b2637a8e1b75402a91d1afaae388_20170503035353","record":[{"begin_time":0,"end_time":25,"text":"1西班牙斗牛士遭公牛刺死","img_url":""}]}
+否
+-
+是
+{"audio_duration":25,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f055b2637a8e1b75402a91d1afaae388_20170503035353","record":[{"begin_time":0,"end_time":25,"text":"1西班牙斗牛士遭公牛刺死","img_url":""}]}
+3384353:{"audio_duration":25,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f055b2637a8e1b75402a91d1afaae388_20170503035353","record":[{"begin_time":0,"end_time":25,"text":"1西班牙斗牛士遭公牛刺死","img_url":""}]}
+{"audio_duration":25,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f055b2637a8e1b75402a91d1afaae388_20170503035353","record":[{"begin_time":0,"end_time":25,"text":"1西班牙斗牛士遭公牛刺死","img_url":""}]}(100)
+100
+否
+-
+-

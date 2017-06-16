@@ -1,0 +1,17 @@
+46
+yanhao/1825/mda-ggma0qbub0qrf0c6.mp4
+http://mark-audio.bj.bcebos.com/57cf09bca960ebf08615b7d7b6857e58_20170503035346
+1
+1
+100
+{"audio_duration":119,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/57cf09bca960ebf08615b7d7b6857e58_20170503035346","record":[{"begin_time":10,"end_time":87,"text":"1梅溪水位明显下降县城积水消退","img_url":""},{"begin_time":96,"end_time":108,"text":"1坂东塔庄等乡镇水电通讯待恢复","img_url":""}]}
+否
+-
+是
+{"audio_duration":119,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/57cf09bca960ebf08615b7d7b6857e58_20170503035346","record":[{"begin_time":10,"end_time":87,"text":"1梅溪水位明显下降县城积水消退","img_url":""},{"begin_time":96,"end_time":108,"text":"1坂东塔庄等乡镇水电通讯待恢复","img_url":""}]}
+3384353:{"audio_duration":119,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/57cf09bca960ebf08615b7d7b6857e58_20170503035346","record":[{"begin_time":10,"end_time":87,"text":"1梅溪水位明显下降县城积水消退","img_url":""},{"begin_time":96,"end_time":108,"text":"1坂东塔庄等乡镇水电通讯待恢复","img_url":""}]}
+{"audio_duration":119,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/57cf09bca960ebf08615b7d7b6857e58_20170503035346","record":[{"begin_time":10,"end_time":87,"text":"1梅溪水位明显下降县城积水消退","img_url":""},{"begin_time":96,"end_time":108,"text":"1坂东塔庄等乡镇水电通讯待恢复","img_url":""}]}(100)
+100
+否
+-
+-

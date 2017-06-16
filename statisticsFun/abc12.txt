@@ -1,0 +1,17 @@
+13
+yanhao/1825/mda-gg2hfzc823u1v2mj.mp4
+http://mark-audio.bj.bcebos.com/89241edca3ccbfe64555415fd9867a3d_20170503035201
+1
+1
+100
+{"audio_duration":43,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/89241edca3ccbfe64555415fd9867a3d_20170503035201","record":[{"begin_time":10,"end_time":13,"text":"1中美男篮洛杉矶热身赛赵继伟爆发","img_url":""},{"begin_time":15,"end_time":16,"text":"1库里打高尔夫扔牙膏自嘲","img_url":""},{"begin_time":17,"end_time":20,"text":"1观摩克里斯·保罗明星慈善乒乓球赛","img_url":""},{"begin_time":22,"end_time":25,"text":"2今年的自由球员市场太疯狂了","img_url":""},{"begin_time":27,"end_time":29,"text":"2我也换了新球队","img_url":""},{"begin_time":30,"end_time":31,"text":"2改变不总是坏事","img_url":""},{"begin_time":34,"end_time":35,"text":"1NBA球员大学时都学了啥","img_url":""}]}
+否
+-
+是
+{"audio_duration":43,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/89241edca3ccbfe64555415fd9867a3d_20170503035201","record":[{"begin_time":10,"end_time":13,"text":"1中美男篮洛杉矶热身赛赵继伟爆发","img_url":""},{"begin_time":15,"end_time":16,"text":"1库里打高尔夫扔牙膏自嘲","img_url":""},{"begin_time":17,"end_time":20,"text":"1观摩克里斯·保罗明星慈善乒乓球赛","img_url":""},{"begin_time":22,"end_time":25,"text":"2今年的自由球员市场太疯狂了","img_url":""},{"begin_time":27,"end_time":29,"text":"2我也换了新球队","img_url":""},{"begin_time":30,"end_time":31,"text":"2改变不总是坏事","img_url":""},{"begin_time":34,"end_time":35,"text":"1NBA球员大学时都学了啥","img_url":""}]}
+3384353:{"audio_duration":43,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/89241edca3ccbfe64555415fd9867a3d_20170503035201","record":[{"begin_time":10,"end_time":13,"text":"1中美男篮洛杉矶热身赛赵继伟爆发","img_url":""},{"begin_time":15,"end_time":16,"text":"1库里打高尔夫扔牙膏自嘲","img_url":""},{"begin_time":17,"end_time":20,"text":"1观摩克里斯·保罗明星慈善乒乓球赛","img_url":""},{"begin_time":22,"end_time":25,"text":"2今年的自由球员市场太疯狂了","img_url":""},{"begin_time":27,"end_time":29,"text":"2我也换了新球队","img_url":""},{"begin_time":30,"end_time":31,"text":"2改变不总是坏事","img_url":""},{"begin_time":34,"end_time":35,"text":"1NBA球员大学时都学了啥","img_url":""}]}
+{"audio_duration":43,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/89241edca3ccbfe64555415fd9867a3d_20170503035201","record":[{"begin_time":10,"end_time":13,"text":"1中美男篮洛杉矶热身赛赵继伟爆发","img_url":""},{"begin_time":15,"end_time":16,"text":"1库里打高尔夫扔牙膏自嘲","img_url":""},{"begin_time":17,"end_time":20,"text":"1观摩克里斯·保罗明星慈善乒乓球赛","img_url":""},{"begin_time":22,"end_time":25,"text":"2今年的自由球员市场太疯狂了","img_url":""},{"begin_time":27,"end_time":29,"text":"2我也换了新球队","img_url":""},{"begin_time":30,"end_time":31,"text":"2改变不总是坏事","img_url":""},{"begin_time":34,"end_time":35,"text":"1NBA球员大学时都学了啥","img_url":""}]}(100)
+100
+否
+-
+-

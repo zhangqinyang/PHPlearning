@@ -1,0 +1,17 @@
+21
+yanhao/1825/mda-gg3m8fvcdn4ntvna.mp4
+http://mark-audio.bj.bcebos.com/1fe7410817e5722839a4e4c6d16a3e6d_20170503035229
+1
+1
+100
+{"audio_duration":30,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1fe7410817e5722839a4e4c6d16a3e6d_20170503035229","record":[{"begin_time":16,"end_time":22,"text":"1河南将选派2500名优秀教师赴贫困县支教","img_url":""}]}
+否
+-
+是
+{"audio_duration":30,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1fe7410817e5722839a4e4c6d16a3e6d_20170503035229","record":[{"begin_time":16,"end_time":22,"text":"1河南将选派2500名优秀教师赴贫困县支教","img_url":""}]}
+14490624:{"audio_duration":30,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1fe7410817e5722839a4e4c6d16a3e6d_20170503035229","record":[{"begin_time":16,"end_time":22,"text":"1河南将选派2500名优秀教师赴贫困县支教","img_url":""}]}
+{"audio_duration":30,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/1fe7410817e5722839a4e4c6d16a3e6d_20170503035229","record":[{"begin_time":16,"end_time":22,"text":"1河南将选派2500名优秀教师赴贫困县支教","img_url":""}]}(100)
+100
+否
+-
+-

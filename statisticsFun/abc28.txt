@@ -1,0 +1,17 @@
+29
+yanhao/1825/mda-gg5wqk3fgitjrx5c.mp4
+http://mark-audio.bj.bcebos.com/ce9a6775fba6203e21c4ebdb7676da63_20170503035249
+1
+1
+100
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/ce9a6775fba6203e21c4ebdb7676da63_20170503035249","record":[{"begin_time":14,"end_time":32,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""},{"begin_time":33,"end_time":35,"text":"2但是按照之前的政策","img_url":""},{"begin_time":36,"end_time":37,"text":"2一个(方式）是人才引进","img_url":""},{"begin_time":38,"end_time":40,"text":"2但是有年龄35岁的限制","img_url":""},{"begin_time":41,"end_time":42,"text":"2这一块我(年龄）超了","img_url":""},{"begin_time":42,"end_time":43,"text":"2另外一个就是靠积分(落户)","img_url":""},{"begin_time":44,"end_time":45,"text":"2这个过程可能就很漫长","img_url":""},{"begin_time":46,"end_time":47,"text":"2正好现在市里出了这个政策","img_url":""},{"begin_time":48,"end_time":50,"text":"2比较快地能够解决我这个问题","img_url":""},{"begin_time":52,"end_time":69,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""}]}
+否
+-
+是
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/ce9a6775fba6203e21c4ebdb7676da63_20170503035249","record":[{"begin_time":14,"end_time":32,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""},{"begin_time":33,"end_time":35,"text":"2但是按照之前的政策","img_url":""},{"begin_time":36,"end_time":37,"text":"2一个(方式）是人才引进","img_url":""},{"begin_time":38,"end_time":40,"text":"2但是有年龄35岁的限制","img_url":""},{"begin_time":41,"end_time":42,"text":"2这一块我(年龄）超了","img_url":""},{"begin_time":42,"end_time":43,"text":"2另外一个就是靠积分(落户)","img_url":""},{"begin_time":44,"end_time":45,"text":"2这个过程可能就很漫长","img_url":""},{"begin_time":46,"end_time":47,"text":"2正好现在市里出了这个政策","img_url":""},{"begin_time":48,"end_time":50,"text":"2比较快地能够解决我这个问题","img_url":""},{"begin_time":52,"end_time":69,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""}]}
+3384353:{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/ce9a6775fba6203e21c4ebdb7676da63_20170503035249","record":[{"begin_time":14,"end_time":32,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""},{"begin_time":33,"end_time":35,"text":"2但是按照之前的政策","img_url":""},{"begin_time":36,"end_time":37,"text":"2一个(方式）是人才引进","img_url":""},{"begin_time":38,"end_time":40,"text":"2但是有年龄35岁的限制","img_url":""},{"begin_time":41,"end_time":42,"text":"2这一块我(年龄）超了","img_url":""},{"begin_time":42,"end_time":43,"text":"2另外一个就是靠积分(落户)","img_url":""},{"begin_time":44,"end_time":45,"text":"2这个过程可能就很漫长","img_url":""},{"begin_time":46,"end_time":47,"text":"2正好现在市里出了这个政策","img_url":""},{"begin_time":48,"end_time":50,"text":"2比较快地能够解决我这个问题","img_url":""},{"begin_time":52,"end_time":69,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""}]}
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/ce9a6775fba6203e21c4ebdb7676da63_20170503035249","record":[{"begin_time":14,"end_time":32,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""},{"begin_time":33,"end_time":35,"text":"2但是按照之前的政策","img_url":""},{"begin_time":36,"end_time":37,"text":"2一个(方式）是人才引进","img_url":""},{"begin_time":38,"end_time":40,"text":"2但是有年龄35岁的限制","img_url":""},{"begin_time":41,"end_time":42,"text":"2这一块我(年龄）超了","img_url":""},{"begin_time":42,"end_time":43,"text":"2另外一个就是靠积分(落户)","img_url":""},{"begin_time":44,"end_time":45,"text":"2这个过程可能就很漫长","img_url":""},{"begin_time":46,"end_time":47,"text":"2正好现在市里出了这个政策","img_url":""},{"begin_time":48,"end_time":50,"text":"2比较快地能够解决我这个问题","img_url":""},{"begin_time":52,"end_time":69,"text":"1“就业即落户”新政迎首批办理者 ","img_url":""}]}(100)
+100
+否
+-
+-

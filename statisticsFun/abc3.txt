@@ -1,0 +1,17 @@
+4
+yanhao/1825/mda-gg0nytgy3k0pu044.mp4
+http://mark-audio.bj.bcebos.com/eee344e472de6ff6ca59e3450ad175b4_20170503035139
+1
+1
+100
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/eee344e472de6ff6ca59e3450ad175b4_20170503035139","record":[{"begin_time":4,"end_time":25,"text":"1河北省委对四名防汛抗洪抢险救灾中###1工作不理人员作停职处理","img_url":""}]}
+否
+-
+是
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/eee344e472de6ff6ca59e3450ad175b4_20170503035139","record":[{"begin_time":4,"end_time":25,"text":"1河北省委对四名防汛抗洪抢险救灾中###1工作不理人员作停职处理","img_url":""}]}
+3384353:{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/eee344e472de6ff6ca59e3450ad175b4_20170503035139","record":[{"begin_time":4,"end_time":25,"text":"1河北省委对四名防汛抗洪抢险救灾中###1工作不理人员作停职处理","img_url":""}]}
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/eee344e472de6ff6ca59e3450ad175b4_20170503035139","record":[{"begin_time":4,"end_time":25,"text":"1河北省委对四名防汛抗洪抢险救灾中###1工作不理人员作停职处理","img_url":""}]}(100)
+100
+否
+-
+-

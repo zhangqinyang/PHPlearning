@@ -1,0 +1,17 @@
+48
+yanhao/1825/mda-ggmeb703c772sqxv.mp4
+http://mark-audio.bj.bcebos.com/2ae1edf3e222b58d55aa311b5f06a780_20170503035349
+1
+1
+100
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ae1edf3e222b58d55aa311b5f06a780_20170503035349","record":[{"begin_time":8,"end_time":47,"text":"1男子行窃造围堵民警花5小时成功“解救”","img_url":""}]}
+否
+-
+是
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ae1edf3e222b58d55aa311b5f06a780_20170503035349","record":[{"begin_time":8,"end_time":47,"text":"1男子行窃造围堵民警花5小时成功“解救”","img_url":""}]}
+14490624:{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ae1edf3e222b58d55aa311b5f06a780_20170503035349","record":[{"begin_time":8,"end_time":47,"text":"1男子行窃造围堵民警花5小时成功“解救”","img_url":""}]}
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ae1edf3e222b58d55aa311b5f06a780_20170503035349","record":[{"begin_time":8,"end_time":47,"text":"1男子行窃造围堵民警花5小时成功“解救”","img_url":""}]}(100)
+100
+否
+-
+-

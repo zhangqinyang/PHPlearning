@@ -1,0 +1,17 @@
+5
+yanhao/1825/mda-gg0s7vfntkzvvu6r.mp4
+http://mark-audio.bj.bcebos.com/cc83bd206b7a72f7d4e8176dcb4bf980_20170503035141
+1
+1
+100
+{"audio_duration":87,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc83bd206b7a72f7d4e8176dcb4bf980_20170503035141","record":[{"begin_time":10,"end_time":77,"text":"1启动史上最大规模的安保行动","img_url":""}]}
+否
+-
+是
+{"audio_duration":87,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc83bd206b7a72f7d4e8176dcb4bf980_20170503035141","record":[{"begin_time":10,"end_time":77,"text":"1启动史上最大规模的安保行动","img_url":""}]}
+3384353:{"audio_duration":87,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc83bd206b7a72f7d4e8176dcb4bf980_20170503035141","record":[{"begin_time":10,"end_time":77,"text":"1启动史上最大规模的安保行动","img_url":""}]}
+{"audio_duration":87,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc83bd206b7a72f7d4e8176dcb4bf980_20170503035141","record":[{"begin_time":10,"end_time":77,"text":"1启动史上最大规模的安保行动","img_url":""}]}(100)
+100
+否
+-
+-

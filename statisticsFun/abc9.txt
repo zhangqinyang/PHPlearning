@@ -1,0 +1,17 @@
+10
+yanhao/1825/mda-gg1r81xz8zed05xv.mp4
+http://mark-audio.bj.bcebos.com/cc07b0742309167cf2e016f9aa177cb8_20170503035154
+1
+1
+100
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc07b0742309167cf2e016f9aa177cb8_20170503035154","record":[{"begin_time":1,"end_time":56,"text":"1 四川资阳一市民发现“蓝色蜥蜴” 首次发现在16年前","img_url":""}]}
+否
+-
+是
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc07b0742309167cf2e016f9aa177cb8_20170503035154","record":[{"begin_time":1,"end_time":56,"text":"1 四川资阳一市民发现“蓝色蜥蜴” 首次发现在16年前","img_url":""}]}
+14490624:{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc07b0742309167cf2e016f9aa177cb8_20170503035154","record":[{"begin_time":1,"end_time":56,"text":"1 四川资阳一市民发现“蓝色蜥蜴” 首次发现在16年前","img_url":""}]}
+{"audio_duration":57,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc07b0742309167cf2e016f9aa177cb8_20170503035154","record":[{"begin_time":1,"end_time":56,"text":"1 四川资阳一市民发现“蓝色蜥蜴” 首次发现在16年前","img_url":""}]}(100)
+100
+否
+-
+-

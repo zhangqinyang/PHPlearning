@@ -1,0 +1,17 @@
+42
+yanhao/1825/mda-ggih3nwik8qwa2f9.mp4
+http://mark-audio.bj.bcebos.com/53a941157faa8360fc9a5a8e900eb4c0_20170503035334
+1
+1
+100
+{"audio_duration":80,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/53a941157faa8360fc9a5a8e900eb4c0_20170503035334","record":[{"begin_time":6,"end_time":9,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":10,"end_time":43,"text":"1马鞍山部分街道积水超70厘米","img_url":""},{"begin_time":46,"end_time":47,"text":"2你们往前看","img_url":""},{"begin_time":48,"end_time":51,"text":"2这条主的314省道已经全面贯通  ","img_url":""},{"begin_time":52,"end_time":55,"text":"2主要受涝比较厉害的","img_url":""},{"begin_time":56,"end_time":57,"text":"2也就是这两条巷子","img_url":""},{"begin_time":64,"end_time":67,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":69,"end_time":71,"text":"1马鞍山市博望区集中安置两千多人","img_url":""}]}
+否
+-
+是
+{"audio_duration":80,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/53a941157faa8360fc9a5a8e900eb4c0_20170503035334","record":[{"begin_time":6,"end_time":9,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":10,"end_time":43,"text":"1马鞍山部分街道积水超70厘米","img_url":""},{"begin_time":46,"end_time":47,"text":"2你们往前看","img_url":""},{"begin_time":48,"end_time":51,"text":"2这条主的314省道已经全面贯通  ","img_url":""},{"begin_time":52,"end_time":55,"text":"2主要受涝比较厉害的","img_url":""},{"begin_time":56,"end_time":57,"text":"2也就是这两条巷子","img_url":""},{"begin_time":64,"end_time":67,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":69,"end_time":71,"text":"1马鞍山市博望区集中安置两千多人","img_url":""}]}
+3384353:{"audio_duration":80,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/53a941157faa8360fc9a5a8e900eb4c0_20170503035334","record":[{"begin_time":6,"end_time":9,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":10,"end_time":43,"text":"1马鞍山部分街道积水超70厘米","img_url":""},{"begin_time":46,"end_time":47,"text":"2你们往前看","img_url":""},{"begin_time":48,"end_time":51,"text":"2这条主的314省道已经全面贯通  ","img_url":""},{"begin_time":52,"end_time":55,"text":"2主要受涝比较厉害的","img_url":""},{"begin_time":56,"end_time":57,"text":"2也就是这两条巷子","img_url":""},{"begin_time":64,"end_time":67,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":69,"end_time":71,"text":"1马鞍山市博望区集中安置两千多人","img_url":""}]}
+{"audio_duration":80,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/53a941157faa8360fc9a5a8e900eb4c0_20170503035334","record":[{"begin_time":6,"end_time":9,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":10,"end_time":43,"text":"1马鞍山部分街道积水超70厘米","img_url":""},{"begin_time":46,"end_time":47,"text":"2你们往前看","img_url":""},{"begin_time":48,"end_time":51,"text":"2这条主的314省道已经全面贯通  ","img_url":""},{"begin_time":52,"end_time":55,"text":"2主要受涝比较厉害的","img_url":""},{"begin_time":56,"end_time":57,"text":"2也就是这两条巷子","img_url":""},{"begin_time":64,"end_time":67,"text":"1南方汛情严峻多地发生险情","img_url":""},{"begin_time":69,"end_time":71,"text":"1马鞍山市博望区集中安置两千多人","img_url":""}]}(100)
+100
+否
+-
+-

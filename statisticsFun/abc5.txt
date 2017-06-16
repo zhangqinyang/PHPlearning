@@ -1,0 +1,17 @@
+6
+yanhao/1825/mda-gg0ws26hdxunhy8m.mp4
+http://mark-audio.bj.bcebos.com/034739593069139052f6ecf6d2b5a08d_20170503035144
+1
+1
+100
+{"audio_duration":23,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/034739593069139052f6ecf6d2b5a08d_20170503035144","record":[{"begin_time":8,"end_time":20,"text":"1将对有偿补课和收受礼金进行治理","img_url":""}]}
+否
+-
+是
+{"audio_duration":23,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/034739593069139052f6ecf6d2b5a08d_20170503035144","record":[{"begin_time":8,"end_time":20,"text":"1将对有偿补课和收受礼金进行治理","img_url":""}]}
+14490624:{"audio_duration":23,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/034739593069139052f6ecf6d2b5a08d_20170503035144","record":[{"begin_time":8,"end_time":20,"text":"1将对有偿补课和收受礼金进行治理","img_url":""}]}
+{"audio_duration":23,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/034739593069139052f6ecf6d2b5a08d_20170503035144","record":[{"begin_time":8,"end_time":20,"text":"1将对有偿补课和收受礼金进行治理","img_url":""}]}(100)
+100
+否
+-
+-

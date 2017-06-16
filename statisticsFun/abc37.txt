@@ -1,0 +1,17 @@
+38
+yanhao/1825/mda-gggcke1pb96zucxy.mp4
+http://mark-audio.bj.bcebos.com/6d2600bde39d21bdcac41b61a0a50c53_20170503035322
+1
+1
+100
+{"audio_duration":26,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6d2600bde39d21bdcac41b61a0a50c53_20170503035322","record":[{"begin_time":2,"end_time":7,"text":"1台风“尼伯特”正向浙闽沿海移动浙江大部将出现大雨暴雨","img_url":""},{"begin_time":9,"end_time":12,"text":"2编辑韩彦兵","img_url":""}]}
+否
+-
+是
+{"audio_duration":26,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6d2600bde39d21bdcac41b61a0a50c53_20170503035322","record":[{"begin_time":2,"end_time":7,"text":"1台风“尼伯特”正向浙闽沿海移动浙江大部将出现大雨暴雨","img_url":""}]}
+14490624:{"audio_duration":26,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6d2600bde39d21bdcac41b61a0a50c53_20170503035322","record":[{"begin_time":2,"end_time":7,"text":"1台风“尼伯特”正向浙闽沿海移动浙江大部将出现大雨暴雨","img_url":""},{"begin_time":9,"end_time":12,"text":"2编辑韩彦兵","img_url":""}]}
+{"audio_duration":26,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/6d2600bde39d21bdcac41b61a0a50c53_20170503035322","record":[{"begin_time":2,"end_time":7,"text":"1台风“尼伯特”正向浙闽沿海移动浙江大部将出现大雨暴雨","img_url":""},{"begin_time":9,"end_time":12,"text":"2编辑韩彦兵","img_url":""}]}(100)
+100
+否
+-
+-

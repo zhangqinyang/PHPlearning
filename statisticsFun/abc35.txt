@@ -1,0 +1,17 @@
+36
+yanhao/1825/mda-ggedjmgq8iys04q5.mp4
+http://mark-audio.bj.bcebos.com/7b52b1cb4bebfa8bf423b5b4f0e74315_20170503035316
+1
+1
+100
+{"audio_duration":66,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7b52b1cb4bebfa8bf423b5b4f0e74315_20170503035316","record":[{"begin_time":5,"end_time":17,"text":"1“环太平洋-2016”军演正在举行","img_url":""},{"begin_time":18,"end_time":43,"text":"2演习进入第二阶段：港岸训练","img_url":""},{"begin_time":44,"end_time":55,"text":"3中国“长岛”号援潜救生船亮相","img_url":""}]}
+否
+-
+是
+{"audio_duration":66,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7b52b1cb4bebfa8bf423b5b4f0e74315_20170503035316","record":[{"begin_time":5,"end_time":17,"text":"1“环太平洋-2016”军演正在举行","img_url":""},{"begin_time":18,"end_time":43,"text":"1演习进入第二阶段：港岸训练","img_url":""},{"begin_time":44,"end_time":55,"text":"1中国“长岛”号援潜救生船亮相","img_url":""}]}
+14490624:{"audio_duration":66,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7b52b1cb4bebfa8bf423b5b4f0e74315_20170503035316","record":[{"begin_time":5,"end_time":17,"text":"1“环太平洋-2016”军演正在举行","img_url":""},{"begin_time":18,"end_time":43,"text":"2演习进入第二阶段：港岸训练","img_url":""},{"begin_time":44,"end_time":55,"text":"3中国“长岛”号援潜救生船亮相","img_url":""}]}
+{"audio_duration":66,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/7b52b1cb4bebfa8bf423b5b4f0e74315_20170503035316","record":[{"begin_time":5,"end_time":17,"text":"1“环太平洋-2016”军演正在举行","img_url":""},{"begin_time":18,"end_time":43,"text":"2演习进入第二阶段：港岸训练","img_url":""},{"begin_time":44,"end_time":55,"text":"3中国“长岛”号援潜救生船亮相","img_url":""}]}(100)
+100
+否
+-
+-

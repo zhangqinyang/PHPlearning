@@ -1,0 +1,17 @@
+7
+yanhao/1825/mda-gg1di96nufqzrwfu.mp4
+http://mark-audio.bj.bcebos.com/32bf9a43c2b8a76c261ee28e173753b6_20170503035145
+1
+1
+100
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/32bf9a43c2b8a76c261ee28e173753b6_20170503035145","record":[{"begin_time":15,"end_time":34,"text":"1发改委：试点金融机构依法持有企业股权","img_url":""},{"begin_time":37,"end_time":38,"text":"2随着形势的发展","img_url":""},{"begin_time":39,"end_time":42,"text":"2我们的金融机构和企业如何更好地对接","img_url":""},{"begin_time":43,"end_time":45,"text":"2需要解决的一个问题","img_url":""},{"begin_time":46,"end_time":47,"text":"2一段时间","img_url":""},{"begin_time":47,"end_time":55,"text":"2监管部门已经在进行投贷联动的试点","img_url":""},{"begin_time":56,"end_time":57,"text":"2回过头说","img_url":""},{"begin_time":57,"end_time":62,"text":"2要以适当的方式要依法要试点","img_url":""},{"begin_time":63,"end_time":66,"text":"2在这种情况下进一步地总结完善","img_url":""},{"begin_time":67,"end_time":69,"text":"2然后才能进一步推广","img_url":""}]}
+否
+-
+是
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/32bf9a43c2b8a76c261ee28e173753b6_20170503035145","record":[{"begin_time":15,"end_time":34,"text":"1发改委：试点金融机构依法持有企业股权","img_url":""},{"begin_time":37,"end_time":38,"text":"2随着形势的发展","img_url":""},{"begin_time":39,"end_time":42,"text":"2我们的金融机构和企业如何更好地对接","img_url":""},{"begin_time":43,"end_time":45,"text":"2需要解决的一个问题","img_url":""},{"begin_time":46,"end_time":47,"text":"2一段时间","img_url":""},{"begin_time":47,"end_time":55,"text":"2监管部门已经在进行投贷联动的试点","img_url":""},{"begin_time":56,"end_time":57,"text":"2回过头说","img_url":""},{"begin_time":57,"end_time":62,"text":"2要以适当的方式要依法要试点","img_url":""},{"begin_time":63,"end_time":66,"text":"2在这种情况下进一步地总结完善","img_url":""},{"begin_time":67,"end_time":69,"text":"2然后才能进一步推广","img_url":""}]}
+3384353:{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/32bf9a43c2b8a76c261ee28e173753b6_20170503035145","record":[{"begin_time":15,"end_time":34,"text":"1发改委：试点金融机构依法持有企业股权","img_url":""},{"begin_time":37,"end_time":38,"text":"2随着形势的发展","img_url":""},{"begin_time":39,"end_time":42,"text":"2我们的金融机构和企业如何更好地对接","img_url":""},{"begin_time":43,"end_time":45,"text":"2需要解决的一个问题","img_url":""},{"begin_time":46,"end_time":47,"text":"2一段时间","img_url":""},{"begin_time":47,"end_time":55,"text":"2监管部门已经在进行投贷联动的试点","img_url":""},{"begin_time":56,"end_time":57,"text":"2回过头说","img_url":""},{"begin_time":57,"end_time":62,"text":"2要以适当的方式要依法要试点","img_url":""},{"begin_time":63,"end_time":66,"text":"2在这种情况下进一步地总结完善","img_url":""},{"begin_time":67,"end_time":69,"text":"2然后才能进一步推广","img_url":""}]}
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/32bf9a43c2b8a76c261ee28e173753b6_20170503035145","record":[{"begin_time":15,"end_time":34,"text":"1发改委：试点金融机构依法持有企业股权","img_url":""},{"begin_time":37,"end_time":38,"text":"2随着形势的发展","img_url":""},{"begin_time":39,"end_time":42,"text":"2我们的金融机构和企业如何更好地对接","img_url":""},{"begin_time":43,"end_time":45,"text":"2需要解决的一个问题","img_url":""},{"begin_time":46,"end_time":47,"text":"2一段时间","img_url":""},{"begin_time":47,"end_time":55,"text":"2监管部门已经在进行投贷联动的试点","img_url":""},{"begin_time":56,"end_time":57,"text":"2回过头说","img_url":""},{"begin_time":57,"end_time":62,"text":"2要以适当的方式要依法要试点","img_url":""},{"begin_time":63,"end_time":66,"text":"2在这种情况下进一步地总结完善","img_url":""},{"begin_time":67,"end_time":69,"text":"2然后才能进一步推广","img_url":""}]}(100)
+100
+否
+-
+-

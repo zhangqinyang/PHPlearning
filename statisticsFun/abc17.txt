@@ -1,0 +1,17 @@
+18
+yanhao/1825/mda-gg3i6xt8w0gnb8f7.mp4
+http://mark-audio.bj.bcebos.com/b9541899db59d9b57271240cf0b6c9c2_20170503035221
+1
+1
+100
+{"audio_duration":67,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9541899db59d9b57271240cf0b6c9c2_20170503035221","record":[{"begin_time":9,"end_time":16,"text":"1疑似货车倒溜司机被卡身亡","img_url":""},{"begin_time":35,"end_time":36,"text":"2这车好像是旧车吧","img_url":""},{"begin_time":37,"end_time":39,"text":"2有什么响声","img_url":""},{"begin_time":40,"end_time":41,"text":"2（司机）就下来看","img_url":""},{"begin_time":42,"end_time":43,"text":"2然后车就（倒溜）","img_url":""},{"begin_time":44,"end_time":45,"text":"2说是手刹没刹","img_url":""}]}
+否
+-
+是
+{"audio_duration":67,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9541899db59d9b57271240cf0b6c9c2_20170503035221","record":[{"begin_time":9,"end_time":16,"text":"1疑似货车倒溜司机被卡身亡","img_url":""},{"begin_time":35,"end_time":36,"text":"2这车好像是旧车吧","img_url":""},{"begin_time":37,"end_time":39,"text":"2有什么响声","img_url":""},{"begin_time":40,"end_time":41,"text":"2（司机）就下来看","img_url":""},{"begin_time":42,"end_time":43,"text":"2然后车就（倒溜）","img_url":""},{"begin_time":44,"end_time":45,"text":"2说是手刹没刹","img_url":""}]}
+3384353:{"audio_duration":67,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9541899db59d9b57271240cf0b6c9c2_20170503035221","record":[{"begin_time":9,"end_time":16,"text":"1疑似货车倒溜司机被卡身亡","img_url":""},{"begin_time":35,"end_time":36,"text":"2这车好像是旧车吧","img_url":""},{"begin_time":37,"end_time":39,"text":"2有什么响声","img_url":""},{"begin_time":40,"end_time":41,"text":"2（司机）就下来看","img_url":""},{"begin_time":42,"end_time":43,"text":"2然后车就（倒溜）","img_url":""},{"begin_time":44,"end_time":45,"text":"2说是手刹没刹","img_url":""}]}
+{"audio_duration":67,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9541899db59d9b57271240cf0b6c9c2_20170503035221","record":[{"begin_time":9,"end_time":16,"text":"1疑似货车倒溜司机被卡身亡","img_url":""},{"begin_time":35,"end_time":36,"text":"2这车好像是旧车吧","img_url":""},{"begin_time":37,"end_time":39,"text":"2有什么响声","img_url":""},{"begin_time":40,"end_time":41,"text":"2（司机）就下来看","img_url":""},{"begin_time":42,"end_time":43,"text":"2然后车就（倒溜）","img_url":""},{"begin_time":44,"end_time":45,"text":"2说是手刹没刹","img_url":""}]}(100)
+100
+否
+-
+-

@@ -1,0 +1,17 @@
+26
+yanhao/1825/mda-gg4d9vmkcwku0mm9.mp4
+http://mark-audio.bj.bcebos.com/65dfb5adfb6a69b9b13614a2c0720b1c_20170503035238
+1
+1
+100
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/65dfb5adfb6a69b9b13614a2c0720b1c_20170503035238","record":[{"begin_time":0,"end_time":29,"text":"1法国检方确认教堂人质劫持事件另一嫌疑人身份","img_url":""}]}
+否
+-
+是
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/65dfb5adfb6a69b9b13614a2c0720b1c_20170503035238","record":[{"begin_time":0,"end_time":29,"text":"1法国检方确认教堂人质劫持事件另一嫌疑人身份","img_url":""}]}
+14490624:{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/65dfb5adfb6a69b9b13614a2c0720b1c_20170503035238","record":[{"begin_time":0,"end_time":29,"text":"1法国检方确认教堂人质劫持事件另一嫌疑人身份","img_url":""}]}
+{"audio_duration":29,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/65dfb5adfb6a69b9b13614a2c0720b1c_20170503035238","record":[{"begin_time":0,"end_time":29,"text":"1法国检方确认教堂人质劫持事件另一嫌疑人身份","img_url":""}]}(100)
+100
+否
+-
+-

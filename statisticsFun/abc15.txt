@@ -1,0 +1,17 @@
+16
+yanhao/1825/mda-gg2se0ysb1g6mi5r.mp4
+http://mark-audio.bj.bcebos.com/2ead98b7026067f04dcdf265e077c720_20170503035213
+1
+0
+0
+
+否
+-
+是
+{"audio_duration":85,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ead98b7026067f04dcdf265e077c720_20170503035213","record":[{"begin_time":14,"end_time":16,"text":"2视频中的这名红衣男子","img_url":""},{"begin_time":16,"end_time":16,"text":"2一声不吭","img_url":""},{"begin_time":17,"end_time":18,"text":"1男子在交警队发飙飞蹬砸人（7秒后结束）###2直接从外面","img_url":""},{"begin_time":18,"end_time":20,"text":"2走进里水交警中队大厅","img_url":""},{"begin_time":20,"end_time":21,"text":"2一首抄起大铁凳","img_url":""},{"begin_time":22,"end_time":24,"text":"2直接扔向柜台里面的工作人员","img_url":""},{"begin_time":26,"end_time":27,"text":"2没说什么都没说","img_url":""},{"begin_time":27,"end_time":28,"text":"2直接走过来就扔凳子","img_url":""},{"begin_time":28,"end_time":31,"text":"2谁都没反应过来","img_url":""},{"begin_time":32,"end_time":34,"text":"2已经闪开了但他已经很近","img_url":""},{"begin_time":35,"end_time":35,"text":"2我还是要挡的了","img_url":""},{"begin_time":37,"end_time":37,"text":"2由于躲避不及","img_url":""},{"begin_time":38,"end_time":38,"text":"2廖先生的左手","img_url":""},{"begin_time":39,"end_time":40,"text":"2被铁凳砸中受伤","img_url":""},{"begin_time":41,"end_time":41,"text":"2而这个时候","img_url":""},{"begin_time":42,"end_time":43,"text":"2在场交警即刻上前","img_url":""},{"begin_time":43,"end_time":45,"text":"2迅速将男子制服","img_url":""},{"begin_time":45,"end_time":48,"text":"2我们立即上前制止了他的这种行为","img_url":""},{"begin_time":49,"end_time":52,"text":"2过程中他是极力挣扎的","img_url":""},{"begin_time":52,"end_time":55,"text":"2我们还是依法制服了他","img_url":""},{"begin_time":55,"end_time":55,"text":"2随后","img_url":""},{"begin_time":56,"end_time":57,"text":"2民警将这名男子","img_url":""},{"begin_time":57,"end_time":59,"text":"2带回佛山里水派出所","img_url":""},{"begin_time":60,"end_time":60,"text":"2他为什么会搞得","img_url":""},{"begin_time":61,"end_time":62,"text":"2扔凳子撒野呢","img_url":""},{"begin_time":63,"end_time":63,"text":"2经审查","img_url":""},{"begin_time":64,"end_time":65,"text":"2这名男子姓余","img_url":""},{"begin_time":66,"end_time":66,"text":"27月15号","img_url":""},{"begin_time":67,"end_time":68,"text":"2他驾驶的摩托车涉嫌为赃车","img_url":""},{"begin_time":69,"end_time":69,"text":"2被交警暂扣","img_url":""},{"begin_time":70,"end_time":71,"text":"2结果他就来报复了","img_url":""},{"begin_time":73,"end_time":73,"text":"2据警方提供的照片","img_url":""},{"begin_time":74,"end_time":75,"text":"2余某在7月18号","img_url":""},{"begin_time":75,"end_time":77,"text":"2已经来过里水交警中队","img_url":""},{"begin_time":77,"end_time":79,"text":"2而且还打横睡在大厅的凳子上","img_url":""},{"begin_time":79,"end_time":80,"text":"2第二天19号","img_url":""},{"begin_time":80,"end_time":82,"text":"2他就直接冲进来打砸","img_url":""},{"begin_time":82,"end_time":83,"text":"2目前","img_url":""},{"begin_time":83,"end_time":85,"text":"2余某已被派出所行政拘留10天","img_url":""}]}
+
+
+0
+否
+-
+-

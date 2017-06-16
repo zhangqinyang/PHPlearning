@@ -1,0 +1,17 @@
+25
+yanhao/1825/mda-gg4d0tkequt4t8me.mp4
+http://mark-audio.bj.bcebos.com/524fecdc42e2991c9ec31a29f7a77e72_20170503035237
+1
+1
+100
+{"audio_duration":50,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/524fecdc42e2991c9ec31a29f7a77e72_20170503035237","record":[{"begin_time":18,"end_time":48,"text":"压面机\"咬住\"女工手消防员破拆解救","img_url":""}]}
+否
+-
+是
+{"audio_duration":50,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/524fecdc42e2991c9ec31a29f7a77e72_20170503035237","record":[{"begin_time":18,"end_time":48,"text":"1压面机“咬住”女工手消防员破拆解救","img_url":""}]}
+14490624:{"audio_duration":50,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/524fecdc42e2991c9ec31a29f7a77e72_20170503035237","record":[{"begin_time":18,"end_time":48,"text":"压面机\"咬住\"女工手消防员破拆解救","img_url":""}]}
+{"audio_duration":50,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/524fecdc42e2991c9ec31a29f7a77e72_20170503035237","record":[{"begin_time":18,"end_time":48,"text":"压面机\"咬住\"女工手消防员破拆解救","img_url":""}]}(100)
+100
+否
+-
+-

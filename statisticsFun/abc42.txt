@@ -1,0 +1,17 @@
+43
+yanhao/1825/mda-ggiit6i6xfr13n07.mp4
+http://mark-audio.bj.bcebos.com/2ec82bc79eabbe9fdea8d74e27ffbe5f_20170503035339
+1
+1
+100
+{"audio_duration":20,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ec82bc79eabbe9fdea8d74e27ffbe5f_20170503035339","record":[{"begin_time":4,"end_time":20,"text":"1出行提醒###1凤台南路至河西大街段排水完毕恢复通车","img_url":""}]}
+否
+-
+是
+{"audio_duration":20,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ec82bc79eabbe9fdea8d74e27ffbe5f_20170503035339","record":[{"begin_time":4,"end_time":20,"text":"1凤台南路至河西大街段排水完毕恢复通车","img_url":""}]}
+3384353:{"audio_duration":20,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ec82bc79eabbe9fdea8d74e27ffbe5f_20170503035339","record":[{"begin_time":4,"end_time":20,"text":"1出行提醒###1凤台南路至河西大街段排水完毕恢复通车","img_url":""}]}
+{"audio_duration":20,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/2ec82bc79eabbe9fdea8d74e27ffbe5f_20170503035339","record":[{"begin_time":4,"end_time":20,"text":"1出行提醒###1凤台南路至河西大街段排水完毕恢复通车","img_url":""}]}(100)
+100
+否
+-
+-

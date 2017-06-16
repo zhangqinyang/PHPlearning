@@ -1,0 +1,17 @@
+30
+yanhao/1825/mda-gg6cpw9niyie8sv0.mp4
+http://mark-audio.bj.bcebos.com/9cecccf473108b7a4b86307c82bc39f4_20170503035251
+1
+1
+100
+{"audio_duration":35,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9cecccf473108b7a4b86307c82bc39f4_20170503035251","record":[{"begin_time":4,"end_time":34,"text":"1小伙立定跳高展示惊人弹跳力","img_url":""}]}
+否
+-
+是
+{"audio_duration":35,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9cecccf473108b7a4b86307c82bc39f4_20170503035251","record":[{"begin_time":4,"end_time":34,"text":"1小伙立定跳高展示惊人弹跳力","img_url":""}]}
+11332588:{"audio_duration":35,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9cecccf473108b7a4b86307c82bc39f4_20170503035251","record":[{"begin_time":4,"end_time":34,"text":"1小伙立定跳高展示惊人弹跳力","img_url":""}]}
+{"audio_duration":35,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9cecccf473108b7a4b86307c82bc39f4_20170503035251","record":[{"begin_time":4,"end_time":34,"text":"1小伙立定跳高展示惊人弹跳力","img_url":""}]}(100)
+100
+否
+-
+-

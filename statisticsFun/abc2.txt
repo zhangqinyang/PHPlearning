@@ -1,0 +1,17 @@
+3
+yanhao/1825/mda-gg0juesf3sz6320b.mp4
+http://mark-audio.bj.bcebos.com/48ad70774c95cf05768ec61b81a56b7f_20170503035134
+1
+0
+0
+
+否
+-
+是
+{"audio_duration":119,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/48ad70774c95cf05768ec61b81a56b7f_20170503035134","record":[{"begin_time":17,"end_time":32,"text":"1市防汛办启动紧急预案全市转移人口超过12000人","img_url":""},{"begin_time":64,"end_time":65,"text":"2还有些水库","img_url":""},{"begin_time":65,"end_time":66,"text":"2因为超汛限水位","img_url":""},{"begin_time":66,"end_time":67,"text":"2我们实施了调度","img_url":""},{"begin_time":67,"end_time":68,"text":"2那么在沿河","img_url":""},{"begin_time":68,"end_time":73,"text":"2我们也是加强了值守和巡查","img_url":""},{"begin_time":73,"end_time":75,"text":"确保咱们水库和下游水道","img_url":""},{"begin_time":76,"end_time":78,"text":"2人员和工程的安全","img_url":""},{"begin_time":104,"end_time":105,"text":"2对山区这种土壤饱和的状态","img_url":""},{"begin_time":105,"end_time":107,"text":"2易发生这种地质灾害风险","img_url":""},{"begin_time":108,"end_time":111,"text":"2要求各区要加强巡查","img_url":""},{"begin_time":112,"end_time":115,"text":"2而且对这个人员的转移安置工作","img_url":""},{"begin_time":116,"end_time":117,"text":"2一定要做到很扎实","img_url":""}]}
+
+
+0
+否
+-
+-

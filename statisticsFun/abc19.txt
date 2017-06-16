@@ -1,0 +1,17 @@
+20
+yanhao/1825/mda-gg3ki1r0v5tcjf4a.mp4
+http://mark-audio.bj.bcebos.com/08679c4a0e7c1d786a077042436597fe_20170503035225
+1
+1
+100
+{"audio_duration":100,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/08679c4a0e7c1d786a077042436597fe_20170503035225","record":[{"begin_time":14,"end_time":100,"text":"1台湾渔会呼吁当局向日本讨回百万赎金捍卫渔民尊严","img_url":""}]}
+否
+-
+是
+{"audio_duration":100,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/08679c4a0e7c1d786a077042436597fe_20170503035225","record":[{"begin_time":14,"end_time":100,"text":"1台湾渔会呼吁当局向日本讨回百万赎金捍卫渔民尊严","img_url":""}]}
+3384353:{"audio_duration":100,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/08679c4a0e7c1d786a077042436597fe_20170503035225","record":[{"begin_time":14,"end_time":100,"text":"1台湾渔会呼吁当局向日本讨回百万赎金捍卫渔民尊严","img_url":""}]}
+{"audio_duration":100,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/08679c4a0e7c1d786a077042436597fe_20170503035225","record":[{"begin_time":14,"end_time":100,"text":"1台湾渔会呼吁当局向日本讨回百万赎金捍卫渔民尊严","img_url":""}]}(100)
+100
+否
+-
+-

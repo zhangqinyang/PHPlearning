@@ -1,0 +1,17 @@
+2
+yanhao/1825/mda-gg0isxaqngptnr3s.mp4
+http://mark-audio.bj.bcebos.com/9b26765b77631f06270fca3d4277c5eb_20170503035130
+1
+1
+100
+{"audio_duration":86,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9b26765b77631f06270fca3d4277c5eb_20170503035130","record":[{"begin_time":6,"end_time":45,"text":"1今年中央财政对只能制造继续“加码”","img_url":""},{"begin_time":49,"end_time":86,"text":"1养老金入市蓄势待发保险机构摩拳擦掌","img_url":""}]}
+否
+-
+是
+{"audio_duration":86,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9b26765b77631f06270fca3d4277c5eb_20170503035130","record":[{"begin_time":6,"end_time":45,"text":"1今年中央财政对只能制造继续“加码”","img_url":""},{"begin_time":49,"end_time":86,"text":"1养老金入市蓄势待发保险机构摩拳擦掌","img_url":""}]}
+3384353:{"audio_duration":86,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9b26765b77631f06270fca3d4277c5eb_20170503035130","record":[{"begin_time":6,"end_time":45,"text":"1今年中央财政对只能制造继续“加码”","img_url":""},{"begin_time":49,"end_time":86,"text":"1养老金入市蓄势待发保险机构摩拳擦掌","img_url":""}]}
+{"audio_duration":86,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/9b26765b77631f06270fca3d4277c5eb_20170503035130","record":[{"begin_time":6,"end_time":45,"text":"1今年中央财政对只能制造继续“加码”","img_url":""},{"begin_time":49,"end_time":86,"text":"1养老金入市蓄势待发保险机构摩拳擦掌","img_url":""}]}(100)
+100
+否
+-
+-

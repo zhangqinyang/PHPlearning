@@ -1,0 +1,17 @@
+37
+yanhao/1825/mda-gggc19a0hc72rkiv.mp4
+http://mark-audio.bj.bcebos.com/06ea836d1f942bd6a757f28cd679dbca_20170503035318
+1
+1
+100
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/06ea836d1f942bd6a757f28cd679dbca_20170503035318","record":[{"begin_time":19,"end_time":21,"text":"1湖北汛情严峻","img_url":""},{"begin_time":22,"end_time":55,"text":"1武汉城区内涝基本退去仍有少量积水","img_url":""},{"begin_time":56,"end_time":69,"text":"1龙王庙水位仍超警戒","img_url":""},{"begin_time":70,"end_time":79,"text":"1堤坝提高加固工作仍在继续","img_url":""}]}
+否
+-
+是
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/06ea836d1f942bd6a757f28cd679dbca_20170503035318","record":[{"begin_time":19,"end_time":21,"text":"1湖北汛情严峻","img_url":""},{"begin_time":22,"end_time":55,"text":"1武汉城区内涝基本退去仍有少量积水","img_url":""},{"begin_time":56,"end_time":69,"text":"1龙王庙水位仍超警戒","img_url":""},{"begin_time":70,"end_time":79,"text":"1堤坝提高加固工作仍在继续","img_url":""}]}
+3384353:{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/06ea836d1f942bd6a757f28cd679dbca_20170503035318","record":[{"begin_time":19,"end_time":21,"text":"1湖北汛情严峻","img_url":""},{"begin_time":22,"end_time":55,"text":"1武汉城区内涝基本退去仍有少量积水","img_url":""},{"begin_time":56,"end_time":69,"text":"1龙王庙水位仍超警戒","img_url":""},{"begin_time":70,"end_time":79,"text":"1堤坝提高加固工作仍在继续","img_url":""}]}
+{"audio_duration":82,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/06ea836d1f942bd6a757f28cd679dbca_20170503035318","record":[{"begin_time":19,"end_time":21,"text":"1湖北汛情严峻","img_url":""},{"begin_time":22,"end_time":55,"text":"1武汉城区内涝基本退去仍有少量积水","img_url":""},{"begin_time":56,"end_time":69,"text":"1龙王庙水位仍超警戒","img_url":""},{"begin_time":70,"end_time":79,"text":"1堤坝提高加固工作仍在继续","img_url":""}]}(100)
+100
+否
+-
+-

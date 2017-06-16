@@ -1,0 +1,17 @@
+32
+yanhao/1825/mda-gg6i3ydj18qbtcrh.mp4
+http://mark-audio.bj.bcebos.com/b9e02509508907ac8c5ed31236bc5a5a_20170503035259
+1
+1
+100
+{"audio_duration":59,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9e02509508907ac8c5ed31236bc5a5a_20170503035259","record":[{"begin_time":9,"end_time":14,"text":"无法标注","img_url":""}]}
+否
+-
+是
+{"audio_duration":59,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9e02509508907ac8c5ed31236bc5a5a_20170503035259","record":[{"begin_time":9,"end_time":14,"text":"无法标注","img_url":""}]}
+14490624:{"audio_duration":59,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9e02509508907ac8c5ed31236bc5a5a_20170503035259","record":[{"begin_time":9,"end_time":14,"text":"无法标注","img_url":""}]}
+{"audio_duration":59,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/b9e02509508907ac8c5ed31236bc5a5a_20170503035259","record":[{"begin_time":9,"end_time":14,"text":"无法标注","img_url":""}]}(100)
+100
+否
+-
+-

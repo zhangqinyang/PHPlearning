@@ -1,0 +1,17 @@
+12
+yanhao/1825/mda-gg2dqd6xx7dpnc6c.mp4
+http://mark-audio.bj.bcebos.com/849620bfde5a44e9b6cb7e0d62a1461f_20170503035159
+1
+1
+100
+{"audio_duration":36,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/849620bfde5a44e9b6cb7e0d62a1461f_20170503035159","record":[{"begin_time":15,"end_time":28,"text":"1芝加哥一火车站暴雨中坍塌","img_url":""}]}
+否
+-
+是
+{"audio_duration":36,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/849620bfde5a44e9b6cb7e0d62a1461f_20170503035159","record":[{"begin_time":15,"end_time":28,"text":"1芝加哥一火车站暴雨中坍塌","img_url":""}]}
+14490624:{"audio_duration":36,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/849620bfde5a44e9b6cb7e0d62a1461f_20170503035159","record":[{"begin_time":15,"end_time":28,"text":"1芝加哥一火车站暴雨中坍塌","img_url":""}]}
+{"audio_duration":36,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/849620bfde5a44e9b6cb7e0d62a1461f_20170503035159","record":[{"begin_time":15,"end_time":28,"text":"1芝加哥一火车站暴雨中坍塌","img_url":""}]}(100)
+100
+否
+-
+-

@@ -1,0 +1,17 @@
+44
+yanhao/1825/mda-ggjgapf43fp6tjbs.mp4
+http://mark-audio.bj.bcebos.com/12ba6f372d1367341c799fd003a52aed_20170503035340
+1
+1
+100
+{"audio_duration":79,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/12ba6f372d1367341c799fd003a52aed_20170503035340","record":[{"begin_time":8,"end_time":77,"text":"1记者航拍渝昆高速道路多处严重损毁","img_url":""}]}
+否
+-
+是
+{"audio_duration":79,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/12ba6f372d1367341c799fd003a52aed_20170503035340","record":[{"begin_time":8,"end_time":77,"text":"1记者航拍渝昆高速道路多处严重损毁","img_url":""}]}
+14490624:{"audio_duration":79,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/12ba6f372d1367341c799fd003a52aed_20170503035340","record":[{"begin_time":8,"end_time":77,"text":"1记者航拍渝昆高速道路多处严重损毁","img_url":""}]}
+{"audio_duration":79,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/12ba6f372d1367341c799fd003a52aed_20170503035340","record":[{"begin_time":8,"end_time":77,"text":"1记者航拍渝昆高速道路多处严重损毁","img_url":""}]}(100)
+100
+否
+-
+-

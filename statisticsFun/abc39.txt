@@ -1,0 +1,17 @@
+40
+yanhao/1825/mda-gghje0z5arv967w4.mp4
+http://mark-audio.bj.bcebos.com/cc8f8d6be44e9907c9bebb2f6c05472b_20170503035326
+1
+1
+100
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc8f8d6be44e9907c9bebb2f6c05472b_20170503035326","record":[{"begin_time":9,"end_time":95,"text":"1防御台风注意三个阶段","img_url":""}]}
+否
+-
+是
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc8f8d6be44e9907c9bebb2f6c05472b_20170503035326","record":[{"begin_time":9,"end_time":95,"text":"1防御台风注意三个阶段","img_url":""}]}
+14490624:{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc8f8d6be44e9907c9bebb2f6c05472b_20170503035326","record":[{"begin_time":9,"end_time":95,"text":"1防御台风注意三个阶段","img_url":""}]}
+{"audio_duration":105,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/cc8f8d6be44e9907c9bebb2f6c05472b_20170503035326","record":[{"begin_time":9,"end_time":95,"text":"1防御台风注意三个阶段","img_url":""}]}(100)
+100
+否
+-
+-

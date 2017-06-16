@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Learning</title>
+</head>
+<body>
+
+    <form action="form.php" method="post">
+        名字: <input type="text" name="fname">
+        年龄: <input type="text" name="age">
+        <input type="submit" value="提交">
+    </form>
+    <form action="form_select.php" method="get">
+        <select name="q">
+            <option value="">选择一个站点:</option>
+            <option value="RUNOOB">Runoob</option>
+            <option value="GOOGLE">Google</option>
+            <option value="TAOBAO">Taobao</option>
+        </select>
+        <input type="submit" value="提交">
+    </form>
+    <form action="form_multiple.php" method="post">
+        <select multiple=ture name="q[]">
+            <option value="">选择一个站点:</option>
+            <option value="RUNOOB">Runoob</option>
+            <option value="GOOGLE">Google</option>
+            <option value="TAOBAO">Taobao</option>
+        </select>
+        <input type="submit" value="提交">
+    </form>
+    <form action="checkbox.php" method="post">
+        <input type="checkbox" name="q[]" value="RUNOOB"> Runoob<br>
+        <input type="checkbox" name="q[]" value="GOOGLE"> Google<br>
+        <input type="checkbox" name="q[]" value="TAOBAO"> Taobao<br>
+        <input type="submit" value="提交">
+    </form>
+</body>
+</html>

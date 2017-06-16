@@ -1,0 +1,17 @@
+1
+yanhao/1825/1586472076810884772.mp4
+http://mark-audio.bj.bcebos.com/5c606b37c65618752cbe8cdf32b5d9dd_20170503035128
+1
+1
+100
+{"audio_duration":52,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/5c606b37c65618752cbe8cdf32b5d9dd_20170503035128","record":[{"begin_time":19,"end_time":51,"text":"1日残障人事中心袭击案嫌犯送检察厅","img_url":""}]}
+否
+-
+是
+{"audio_duration":52,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/5c606b37c65618752cbe8cdf32b5d9dd_20170503035128","record":[{"begin_time":19,"end_time":51,"text":"1日残障人事中心袭击案嫌犯送检察厅","img_url":""}]}
+14490624:{"audio_duration":52,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/5c606b37c65618752cbe8cdf32b5d9dd_20170503035128","record":[{"begin_time":19,"end_time":51,"text":"1日残障人事中心袭击案嫌犯送检察厅","img_url":""}]}
+{"audio_duration":52,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/5c606b37c65618752cbe8cdf32b5d9dd_20170503035128","record":[{"begin_time":19,"end_time":51,"text":"1日残障人事中心袭击案嫌犯送检察厅","img_url":""}]}(100)
+100
+否
+-
+-

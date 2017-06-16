@@ -1,0 +1,17 @@
+33
+yanhao/1825/mda-gg6i5jn0ya354wgp.mp4
+http://mark-audio.bj.bcebos.com/f3a758cf48a440ab516cb5d445afd3de_20170503035301
+1
+1
+100
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f3a758cf48a440ab516cb5d445afd3de_20170503035301","record":[{"begin_time":14,"end_time":60,"text":"1核心价值观百场讲坛进咸阳","img_url":""}]}
+否
+-
+是
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f3a758cf48a440ab516cb5d445afd3de_20170503035301","record":[{"begin_time":14,"end_time":60,"text":"1核心价值观百场讲坛进咸阳","img_url":""}]}
+3384353:{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f3a758cf48a440ab516cb5d445afd3de_20170503035301","record":[{"begin_time":14,"end_time":60,"text":"1核心价值观百场讲坛进咸阳","img_url":""}]}
+{"audio_duration":69,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/f3a758cf48a440ab516cb5d445afd3de_20170503035301","record":[{"begin_time":14,"end_time":60,"text":"1核心价值观百场讲坛进咸阳","img_url":""}]}(100)
+100
+否
+-
+-

@@ -1,0 +1,17 @@
+47
+yanhao/1825/mda-ggmbn2ggehtxierd.mp4
+http://mark-audio.bj.bcebos.com/04e8463671f5ad7ab9185a3766cf998e_20170503035349
+1
+1
+100
+{"audio_duration":11,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/04e8463671f5ad7ab9185a3766cf998e_20170503035349","record":[{"begin_time":9,"end_time":11,"text":"1南苏丹发生军队派系冲突（3秒内）###2肯尼亚航空暂停前往朱巴航班","img_url":""}]}
+否
+-
+是
+{"audio_duration":11,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/04e8463671f5ad7ab9185a3766cf998e_20170503035349","record":[{"begin_time":9,"end_time":11,"text":"1南苏丹发生军队派系冲突","img_url":""},{"begin_time":11,"end_time":11,"text":"1肯尼亚航空暂停前往朱巴航班","img_url":""}]}
+14490624:{"audio_duration":11,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/04e8463671f5ad7ab9185a3766cf998e_20170503035349","record":[{"begin_time":9,"end_time":11,"text":"1南苏丹发生军队派系冲突（3秒内）###2肯尼亚航空暂停前往朱巴航班","img_url":""}]}
+{"audio_duration":11,"video_name":"","video_url":"http://mark-audio.bj.bcebos.com/04e8463671f5ad7ab9185a3766cf998e_20170503035349","record":[{"begin_time":9,"end_time":11,"text":"1南苏丹发生军队派系冲突（3秒内）###2肯尼亚航空暂停前往朱巴航班","img_url":""}]}(100)
+100
+否
+-
+-
